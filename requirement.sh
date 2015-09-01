@@ -1,3 +1,6 @@
+sudo apt-get install -y make
+sudo apt-get install -y postgresql-server-dev-9.1
+sudo apt-get install -y g++
 sudo apt-get install -y ruby1.9.1
 sudo apt-get install -y ruby1.9.1-dev
 sudo apt-get install -y zlib1g-dev
